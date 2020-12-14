@@ -1,0 +1,26 @@
+.about {
+    padding-top: 123px;
+}
+.title {
+}
+.about__text {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #444148;
+}
+.about__first{
+    margin-top: 10px;
+}
+.about__block {
+    max-width: 635px;
+}
+.about__second{
+    margin-top: 34px;
+}
+.about__third{
+    margin-top: 34px;
+    margin-bottom: 100px;
+}
